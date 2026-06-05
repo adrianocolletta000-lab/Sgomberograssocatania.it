@@ -1,2 +1,83 @@
 # Sgomberograssocatania.it
 Sgombero case, uffici, garage per privati e pubblici a Catania e dintorni
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sgombero Grasso | Catania e Provincia</title>
+<style>
+body{font-family:Arial,sans-serif;margin:0;line-height:1.6;color:#222}
+header{background:#0d47a1;color:white;padding:60px 20px;text-align:center}
+.container{max-width:1100px;margin:auto;padding:20px}
+h2{color:#0d47a1}
+.services{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:15px}
+.card{border:1px solid #ddd;padding:20px;border-radius:10px}
+.cta{background:#eaf2ff;padding:30px;border-radius:10px;text-align:center}
+.btn{display:inline-block;background:#0d47a1;color:white;padding:12px 20px;border-radius:8px;text-decoration:none;margin:5px}
+.whatsapp{background:#25D366}
+footer{background:#0d47a1;color:white;text-align:center;padding:20px;margin-top:40px}
+.float-whatsapp{
+position:fixed;
+bottom:20px;
+right:20px;
+background:#25D366;
+color:white;
+padding:15px 20px;
+border-radius:50px;
+text-decoration:none;
+font-weight:bold;
+box-shadow:0 2px 8px rgba(0,0,0,.3);
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Sgombero Grasso</h1>
+<p>Sgombero appartamenti, garage, cantine e uffici a Catania e provincia fino a Siracusa</p>
+<a class="btn" href="tel:3467733462">📞 Chiama Ora</a>
+<a class="btn whatsapp" href="https://wa.me/393467733462">💬 WhatsApp</a>
+</header>
+
+<div class="container">
+
+<section>
+<h2>Chi siamo</h2>
+<p>Sgombero Grasso offre servizi professionali di sgombero per privati e aziende. Operiamo con rapidità, serietà e attenzione alle esigenze del cliente in tutta la provincia di Catania e nelle principali località della provincia di Siracusa.</p>
+</section>
+
+<section>
+<h2>I nostri servizi</h2>
+<div class="services">
+<div class="card"><h3>Sgombero appartamenti</h3></div>
+<div class="card"><h3>Sgombero garage</h3></div>
+<div class="card"><h3>Sgombero cantine</h3></div>
+<div class="card"><h3>Sgombero uffici</h3></div>
+<div class="card"><h3>Smaltimento mobili</h3></div>
+<div class="card"><h3>Trasporto materiali</h3></div>
+</div>
+</section>
+
+<section>
+<h2>Zone servite</h2>
+<p>Catania, Acireale, Misterbianco, Paternò, Belpasso, Adrano, Giarre, Siracusa, Augusta, Avola, Noto e zone limitrofe.</p>
+</section>
+
+<section class="cta">
+<h2>Preventivo gratuito</h2>
+<p>Telefono: 346 773 3462</p>
+<p>Email: mmirabella974@gmail.com</p>
+<a class="btn whatsapp" href="https://wa.me/393467733462">Richiedi un preventivo su WhatsApp</a>
+</section>
+
+</div>
+
+<a class="float-whatsapp" href="https://wa.me/393467733462">💬 WhatsApp</a>
+
+<footer>
+<p>© Sgombero Grasso - Catania e Provincia</p>
+</footer>
+
+</body>
+</html>
